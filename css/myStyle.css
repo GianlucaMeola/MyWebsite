@@ -328,3 +328,10 @@
     -webkit-transform: scale(1.5);
     transform: scale(1.5);
 }
+
+li .timeline-panel{
+    z-index: -1;
+}
+.fa-angular{
+    color: #dd0000;
+}

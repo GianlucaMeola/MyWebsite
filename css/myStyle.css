@@ -335,3 +335,11 @@ li .timeline-panel{
 .fa-angular{
     color: #dd0000;
 }
+
+.logos-container{
+    margin-bottom: 20px;
+}
+
+.logos-container .col-xs-1:hover {
+    z-index: 10
+}
